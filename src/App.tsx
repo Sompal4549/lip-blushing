@@ -304,7 +304,7 @@ export default function App() {
       </section>
 
       {/* Testimonials Section */}
-      <section id="testimonials" className="py-24 bg-white" id="gallery">
+      <section className="py-24 bg-white" id="gallery">
         <div className="max-w-7xl mx-auto px-6">
           <div className="text-center mb-16">
             <span className="text-brand-gold font-bold uppercase tracking-widest text-sm">Client Love</span>
